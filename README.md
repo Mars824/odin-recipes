@@ -1,2 +1,2 @@
-My first project 
-HTML skill-set 
+My first project in
+HTML 
